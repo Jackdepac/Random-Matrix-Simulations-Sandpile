@@ -3,7 +3,7 @@ A place simulations having to do with Random Matrix Theory and the Abelian Sandp
 
 It's just a stub right now with some pretty pictures of the abelian sandpile on the plane.
 
-Data obtained for paper: https://link.springer.com/article/10.1007/s00026-023-00637-3
+Simulation code supporting paper: https://link.springer.com/article/10.1007/s00026-023-00637-3
 
 # macaulay2 code
 
